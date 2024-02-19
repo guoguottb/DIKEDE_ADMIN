@@ -85,7 +85,7 @@ export default {
         callback();
       }
     };
-    return {   
+    return {    
       loginForm: {
         username: "admin",
         password: "guotongbiao",
