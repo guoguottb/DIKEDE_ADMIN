@@ -84,7 +84,7 @@ export default {
       } else {
         callback();
       }
-    };
+    };  
     return {    
       loginForm: {
         username: "admin",
